@@ -20,7 +20,8 @@ O objetivo do site é:
 ## 📸 Prévia do Site
 > *Abaixo estão algumas capturas de tela demonstrativas do andamento do projeto.*
 
-(Adicione aqui suas imagens quando subir para o GitHub)
+<img width="1420" height="728" alt="image" src="https://github.com/user-attachments/assets/0b7879b7-d496-4e43-91dc-054d0a02ee90" />
+
 
 ---
 
