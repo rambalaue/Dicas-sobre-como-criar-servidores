@@ -21,6 +21,10 @@ O objetivo do site é:
 > *Abaixo estão algumas capturas de tela demonstrativas do andamento do projeto.*
 
 <img width="1420" height="728" alt="image" src="https://github.com/user-attachments/assets/0b7879b7-d496-4e43-91dc-054d0a02ee90" />
+<img width="1422" height="730" alt="image" src="https://github.com/user-attachments/assets/5ed3b187-edf3-445b-b3b8-dfd1e035edc1" />
+<img width="1420" height="684" alt="image" src="https://github.com/user-attachments/assets/9b370ac2-d867-4587-a081-212ee3a2a99a" />
+
+
 
 
 ---
